@@ -1,0 +1,2 @@
+# Automated-Detection-and-Classification-of-Chest-Diseases-Using-Deep-Learning
+This project develops a deep learning model to automate the detection and classification of chest diseases, including COVID-19, bacterial pneumonia, and viral pneumonia, using X-ray images. Leveraging convolutional neural networks and transfer learning, it aims to deliver rapid, accurate diagnostics to enhance healthcare efficiency.
